@@ -1,0 +1,13 @@
+.CustomButton{
+    min-width: 20px;
+    padding: 5px 10px;
+    background-color: lightcyan;
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.CustomButton:hover{
+    background-color: lightsalmon;
+    border: 1px solid lightcoral;
+}
